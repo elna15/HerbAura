@@ -1,0 +1,5 @@
+{
+  "unknown_threshold": 0.6390740871429443,
+  "percentile": 5,
+  "note": "If max softmax probability is below this, treat as unknown."
+}

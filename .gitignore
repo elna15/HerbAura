@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter/editor temporary files
+.ipynb_checkpoints/
+.vscode/
+.idea/
+tempCodeRunnerFile.py
+
+# Legacy/experimental scripts kept locally, not part of the clean GitHub upload
+src/
+codes/audit_all_classes.py
+codes/audit_class_outliers.py
+codes/cnn.py
+codes/confusion_matrix.py
+codes/count_images.py
+codes/image_count.py
+codes/prune_near_duplicates.py
+
+# Local datasets and test images
+dataset/
+test_images/
+notebooks/
+
+# Trained model artifacts
+*.keras
+*.h5
+*.tflite
+!herbaura_best_float.tflite
+models/*
+models 23-2-26/
+
+# Generated reports and experiment outputs
+confusion_matrix.csv
+confusion_matrix.png
+dataset_verification*.json
+codes/*.csv
+codes/audit_reports/
+run_code.txt
+steps_to_do.txt
+
+# Temporary export folders
+_tmp_tflite_export/
