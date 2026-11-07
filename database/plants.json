@@ -1,0 +1,119 @@
+[
+    {
+        "ai_label": "Murikootti_Purple",
+        "common_name": "Murikootti_Purple",
+        "description": "Murikootti (Strobilanthes alternata), also known as Purple Waffle Plant, Red-flame Ivy, or Metal Leaf Plant, is a low-growing tropical medicinal herb widely used in Kerala as a natural first-aid plant. In Sanskrit it is called Vranaropani, meaning “wound healer.” The plant has dark green leaves with a metallic purple underside and soft creeping stems. It grows well in moist, partially shaded tropical environments and spreads easily by rooting at its nodes. Scientific studies indicate that the plant has antibacterial, anti-inflammatory, and antioxidant properties.",
+        "family": "Acanthaceae",
+        "id": 1,
+        "scientific_name": "Strobilanthes alternata",
+        "vernacular_name": " മുറികൂട്ടി "
+    },
+    {
+        "ai_label": "Mukkutti",
+        "common_name": "Mukkutti",
+        "description": "A small plant with miniature palm-like compound leaves arranged in a rosette. It grows in moist, shaded areas.",
+        "family": "Oxalidaceae",
+        "id": 2,
+        "scientific_name": "Biophytum sensitivum",
+        "vernacular_name": " മുക്കുറ്റി"
+    },
+    {
+        "ai_label": "Kodakan",
+        "common_name": "Kodakan",
+        "description": "A creeping herb with small round to kidney-shaped green leaves and long petioles. It grows close to the ground in moist and marshy areas and spreads easily in shaded environments.",
+        "family": "Apiaceae",
+        "id": 3,
+        "scientific_name": "Centella asiatica",
+        "vernacular_name": " കൊടങ്ങൽ "
+    },
+    {
+        "ai_label": "Tulsi",
+        "common_name": "Tulsi",
+        "description": "A sacred medicinal herb widely grown in households and temples. It has aromatic green or purplish leaves and possesses antimicrobial, anti-inflammatory, adaptogenic, and immunity-boosting properties.",
+        "family": "Lamiaceae",
+        "id": 4,
+        "scientific_name": "Ocimum tenuiflorum",
+        "vernacular_name": " തുളസി "
+    },
+    {
+        "ai_label": "Neem",
+        "common_name": "Neem",
+        "description": "Neem is a fast-growing evergreen tree commonly found across India and tropical regions. It has compound leaves with many narrow, serrated leaflets and small white fragrant flowers. The tree grows well in dry and semi-tropical climates and is highly valued for its resilience and adaptability. Neem has been used for centuries in traditional Indian and Ayurvedic practices and is widely cultivated around homes, farms, and roadsides.",
+        "family": "Meliaceae",
+        "id": 5,
+        "scientific_name": "Azadirachta indica",
+        "vernacular_name": "ആര്യവേപ്പ്"
+    },
+    {
+        "ai_label": "Ummam",
+        "common_name": "Ummam",
+        "description": "Ummam (Datura metel) is a robust shrub with large leaves and trumpet-shaped flowers. It bears spiny fruits and contains powerful toxic alkaloids. It is also known as Devil’s Trumpet, Jimsonweed, and Mad Apple. The plant has cultural and religious importance and is used in traditional medicine only after purification and under expert supervision.",
+        "family": "Solanaceae",
+        "id": 6,
+        "scientific_name": "Datura metel",
+        "vernacular_name": "ഉമ്മം"
+    },
+    {
+        "ai_label": "Aloevera",
+        "common_name": "Aloe Vera",
+        "description": "Aloe vera (Aloe barbadensis Miller) is a succulent plant widely recognized for its medicinal and cosmetic uses. The fleshy leaves contain a clear gel used for skin healing, moisturizing, anti-inflammatory, and digestive support.",
+        "family": "Asphodelaceae",
+        "id": 7,
+        "scientific_name": "Aloe barbadensis Miller",
+        "vernacular_name": "കറ്റാർവാഴ"
+    },
+    {
+        "ai_label": "Kayyunyam",
+        "common_name": "False Daisy / Bhringraj",
+        "description": "Eclipta prostrata is a small branched annual herb growing up to 50–70 cm tall. It has reddish or purplish hairy stems, opposite lance-shaped leaves with a rough texture, and small white daisy-like flower heads. It commonly grows in moist tropical areas such as paddy fields and river banks.",
+        "family": "Asteraceae",
+        "id": 8,
+        "scientific_name": "Eclipta prostrata",
+        "vernacular_name": "കയ്യോന്നി / കയ്യൂന്യം "
+    },
+    {
+        "ai_label": "Muyalcheviyan",
+        "common_name": "Lilac Tasselflower / Cupid's Shaving Brush",
+        "description": "Emilia sonchifolia is one of the sacred Dasapushpam (Ten Sacred Flowers) of Kerala and holds important cultural significance. It is a small annual herb growing up to 40 cm in height, with soft green stems and lobed leaves resembling rabbit ears. It produces delicate pink to purplish tubular flower heads and seeds with fine white hairs for wind dispersal. The plant commonly grows in moist tropical regions and open fields.",
+        "family": "Asteraceae",
+        "id": 9,
+        "scientific_name": "Emilia sonchifolia",
+        "vernacular_name": "മുയൽച്ചെവിയൻ"
+    },
+    {
+        "ai_label": "Kizharnelli",
+        "common_name": "Stonebreaker / Gale of the Wind",
+        "description": "Phyllanthus niruri is a small tropical annual herb growing up to 70 cm in height. It has slender green stems with tiny leaflets arranged closely like miniature gooseberry leaves. Small greenish flowers and round seed capsules grow beneath the leaves. It thrives in moist tropical soil and is commonly found in wet agricultural fields and coastal regions.",
+        "family": "Phyllanthaceae",
+        "id": 10,
+        "scientific_name": "Phyllanthus niruri",
+        "vernacular_name": "കിഴാർനെല്ലി"
+    },
+    {
+        "ai_label": "Cherula",
+        "common_name": "Mountain Knot Grass",
+        "description": "Aerva lanata is one of the sacred Dasapushpam (Ten Sacred Flowers) of Kerala. It is a woody perennial herb growing up to 1 meter in height with numerous thin white woolly branches. The leaves are small, alternate and grayish-green with fine hairs. The flowers are minute, white to greenish and appear in dense clusters. The plant commonly grows in plains and open forest regions in tropical climates.",
+        "family": "Amaranthaceae",
+        "id": 12,
+        "scientific_name": "Aerva lanata",
+        "vernacular_name": "ചെറൂള"
+    },
+    {
+        "ai_label": "Panikoorkka",
+        "common_name": "Indian Borage / Mexican Mint",
+        "description": "Plectranthus amboinicus is an aromatic succulent herb with thick fleshy leaves covered in fine hairs and a strong pungent aroma. The leaves are oval-shaped with scalloped edges and grow opposite on soft, semi-woody stems. The plant produces small pale purple to bluish flowers in short spikes. It thrives in warm tropical climates and grows well in well-draining soil with partial to full sunlight. It is commonly cultivated in home gardens and containers.",
+        "family": "Lamiaceae",
+        "id": 13,
+        "scientific_name": "Plectranthus amboinicus",
+        "vernacular_name": "പനിക്കൂർക്ക"
+    },
+    {
+        "ai_label": "Pazhutharakolli",
+        "common_name": "Tapeworm Plant / Ribbon Bush",
+        "description": "Homalocladium platycladum is a unique plant known for its flat ribbon-like green stems that resemble a centipede. The segmented stems perform photosynthesis instead of true leaves, although small temporary leaves may appear on young growth. It is commonly cultivated in tropical home gardens and prefers loamy soil with regular watering.",
+        "family": "Polygonaceae",
+        "id": 14,
+        "scientific_name": "Homalocladium platycladum",
+        "vernacular_name": "പഴുതാരക്കൊല്ലി"
+    }
+]

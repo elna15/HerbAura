@@ -1,0 +1,26 @@
+[
+    {
+        "name": "diseases",
+        "seq": 5
+    },
+    {
+        "name": "medicinal_uses",
+        "seq": 11
+    },
+    {
+        "name": "remedies",
+        "seq": 6
+    },
+    {
+        "name": "precautions",
+        "seq": 5
+    },
+    {
+        "name": "plant_images",
+        "seq": 7
+    },
+    {
+        "name": "remedy_diseases",
+        "seq": 5
+    }
+]

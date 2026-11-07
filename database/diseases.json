@@ -1,0 +1,32 @@
+[
+    {
+        "description": "Pain, swelling, and irritation caused by bee or wasp sting",
+        "id": 1,
+        "name": "Insect Sting (Bee / Wasp)",
+        "vernacular_names": "തേനീച്ച / കൊളവി കുത്തൽ"
+    },
+    {
+        "description": "Abdominal pain and discomfort during menstrual periods",
+        "id": 2,
+        "name": "Menstrual pain",
+        "vernacular_names": "Periods Pain"
+    },
+    {
+        "description": "Open cuts, injuries, and minor wounds on the skin",
+        "id": 3,
+        "name": "Wounds and Cuts",
+        "vernacular_names": "മുറിവുകൾ / മുറിവ്"
+    },
+    {
+        "description": "Bite caused by spiders that leads to pain, swelling, and irritation",
+        "id": 4,
+        "name": "Spider Bite",
+        "vernacular_names": null
+    },
+    {
+        "description": "Skin irritation, itching, or rashes caused by plant contact, dust, or environmental exposure",
+        "id": 5,
+        "name": "Skin Allergy",
+        "vernacular_names": null
+    }
+]

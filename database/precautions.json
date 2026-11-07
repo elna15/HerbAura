@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "plant_id": 1,
+        "precaution_text": "Use only for minor cuts and small wounds. Do not apply on deep wounds or heavy bleeding."
+    },
+    {
+        "id": 2,
+        "plant_id": 6,
+        "precaution_text": "Ummam is highly poisonous. Do not consume or apply without expert medical or Ayurvedic supervision."
+    },
+    {
+        "id": 3,
+        "plant_id": 7,
+        "precaution_text": "Avoid excessive oral consumption. Latex layer may act as strong laxative."
+    },
+    {
+        "id": 4,
+        "plant_id": 14,
+        "precaution_text": "Use under guidance of a traditional practitioner"
+    },
+    {
+        "id": 5,
+        "plant_id": 14,
+        "precaution_text": "Avoid excessive internal consumption"
+    }
+]

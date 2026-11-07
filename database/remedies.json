@@ -1,0 +1,74 @@
+[
+    {
+        "category": "Health care",
+        "disease_id": 1,
+        "dosage": null,
+        "duration": "Apply as needed",
+        "id": 1,
+        "instructions": "Grind fresh Mukkutti leaves and mix it with butter and apply mix  on the sting area.",
+        "notes": "For external use only",
+        "plant_id": 2,
+        "sub_category": "Skin Remedy",
+        "title": "Mukkutti Paste for Insect Sting"
+    },
+    {
+        "category": "Health care",
+        "disease_id": 2,
+        "dosage": null,
+        "duration": "5 days",
+        "id": 2,
+        "instructions": "Boil fresh Kodangal leaves in water and drink daily a few days before menstruation.",
+        "notes": "Avoid excessive use",
+        "plant_id": 3,
+        "sub_category": "Herbal Drink",
+        "title": "Kodangal Menstrual Pain Drink"
+    },
+    {
+        "category": "Health care",
+        "disease_id": 3,
+        "dosage": null,
+        "duration": "Apply as needed",
+        "id": 3,
+        "instructions": "• Crush fresh Murikootti leaves or the whole plant to make a paste.\\n• Apply directly on fresh cuts and wounds.",
+        "notes": "For external use only. Clean the wound before applying.",
+        "plant_id": 1,
+        "sub_category": "Skin Remedy",
+        "title": "Murikootti Wound Healing Paste"
+    },
+    {
+        "category": "Wellness",
+        "disease_id": null,
+        "dosage": null,
+        "duration": "15 days",
+        "id": 4,
+        "instructions": "• Add fresh Dantapala leaves to one litre of coconut oil.\\n• Cover with a clean cloth and keep in sunlight for 15 days.\\n• Strain the oil and store in a clean, dry bottle.",
+        "notes": "Used to nourish scalp and improve hair health",
+        "plant_id": null,
+        "sub_category": "Hair Oil",
+        "title": "Dantapala Herbal Hair Oil"
+    },
+    {
+        "category": "Health care",
+        "disease_id": 4,
+        "dosage": null,
+        "duration": null,
+        "id": 5,
+        "instructions": "• Take fresh Tulasi leaves and raw turmeric.\\n• Grind them into a smooth paste.\\n• Apply the paste directly on the spider-bitten area.\\n• Leave it on and wash after some time.",
+        "notes": "Traditional first-aid remedy",
+        "plant_id": 4,
+        "sub_category": "Insect Bite",
+        "title": "Tulasi and Turmeric Paste for Spider Bite"
+    },
+    {
+        "category": "Health care",
+        "disease_id": null,
+        "dosage": null,
+        "duration": null,
+        "id": 6,
+        "instructions": "• Take fresh Tulasi leaves and a pinch of turmeric.\\n• Grind them into a smooth paste.\\n• Apply the paste gently on the affected skin area.\\n• Leave it for 15–20 minutes and wash with clean water.",
+        "notes": null,
+        "plant_id": 4,
+        "sub_category": "Skin Remedy",
+        "title": "Tulasi Paste for Skin Allergy"
+    }
+]

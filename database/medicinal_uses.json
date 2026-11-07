@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "plant_id": 2,
+        "use_text": "Used to treat insect stings and skin inflammation"
+    },
+    {
+        "id": 2,
+        "plant_id": 3,
+        "use_text": "Improves memory and relieves menstrual pain"
+    },
+    {
+        "id": 3,
+        "plant_id": 1,
+        "use_text": "Strong wound-healing and anti-inflammatory properties"
+    },
+    {
+        "id": 4,
+        "plant_id": 4,
+        "use_text": "Used to reduce pain, swelling, and infection from insect and spider bites"
+    },
+    {
+        "id": 5,
+        "plant_id": 7,
+        "use_text": "Soothes minor burns and sunburn"
+    },
+    {
+        "id": 6,
+        "plant_id": 7,
+        "use_text": "Helps treat acne and skin irritation"
+    },
+    {
+        "id": 7,
+        "plant_id": 7,
+        "use_text": "Acts as a natural moisturizer"
+    },
+    {
+        "id": 8,
+        "plant_id": 7,
+        "use_text": "Supports digestion when consumed carefully"
+    },
+    {
+        "id": 9,
+        "plant_id": 8,
+        "use_text": "Promotes hair growth and prevents premature graying"
+    },
+    {
+        "id": 10,
+        "plant_id": 8,
+        "use_text": "Supports liver health and treats jaundice"
+    },
+    {
+        "id": 11,
+        "plant_id": 13,
+        "use_text": "Used to relieve coughs and colds"
+    }
+]
