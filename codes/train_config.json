@@ -1,0 +1,65 @@
+{
+  "seed": 42,
+  "dataset_path": "dataset/raw",
+  "verify_classes": [],
+  "allowed_ext": [
+    ".jpg",
+    ".jpeg",
+    ".png",
+    ".bmp",
+    ".webp"
+  ],
+  "output_dir": ".",
+  "img_size": 224,
+  "batch_size": 32,
+  "phase1_epochs": 8,
+  "phase2_epochs": 12,
+  "val_split": 0.2,
+  "augmentation": {
+    "train": {
+      "rotation_range": 18,
+      "zoom_range": 0.12,
+      "width_shift_range": 0.08,
+      "height_shift_range": 0.08,
+      "shear_range": 0.03,
+      "brightness_range": [
+        0.9,
+        1.15
+      ],
+      "horizontal_flip": true,
+      "fill_mode": "reflect"
+    },
+    "val": {}
+  },
+  "class_weight": {
+    "enabled": true
+  },
+  "model": {
+    "dense_units": 512,
+    "dropout1": 0.35,
+    "dropout2": 0.3,
+    "label_smoothing": 0.0
+  },
+  "optimizer": {
+    "lr_phase1": 0.001,
+    "lr_phase2": 0.00001
+  },
+  "fine_tune": {
+    "unfreeze_last_n": 100,
+    "freeze_batchnorm": true
+  },
+  "callbacks": {
+    "early_stop_patience": 6,
+    "reduce_lr_factor": 0.5,
+    "reduce_lr_patience": 3,
+    "min_lr": 0.000001
+  },
+  "artifacts": {
+    "best_checkpoint": "herbaura_best.keras",
+    "final_model": "herbaura_full_dataset_model.keras",
+    "verification_report": "dataset_verification.json",
+    "confusion_matrix": "confusion_matrix.csv",
+    "unknown_threshold": "unknown_threshold.json"
+  },
+  "unknown_threshold_percentile": 5
+}
